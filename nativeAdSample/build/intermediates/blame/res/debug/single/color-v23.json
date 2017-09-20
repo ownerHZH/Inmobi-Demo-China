@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/5ee8e9ec50d060bfbcb64a910b3fe7ec4efe84ec/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bannerSample/bannerSample.iml" filepath="$PROJECT_DIR$/bannerSample/bannerSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interstitialSample/interstitialSample.iml" filepath="$PROJECT_DIR$/interstitialSample/interstitialSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativeAdSample/nativeAdSample.iml" filepath="$PROJECT_DIR$/nativeAdSample/nativeAdSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples.iml" filepath="$PROJECT_DIR$/samples.iml" />
+    </modules>
+  </component>
+</project>

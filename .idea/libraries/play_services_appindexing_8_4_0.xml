@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-appindexing-8.4.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f2a965405c5f9db4fb5b63a2c925f21fb88cdea6/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f2a965405c5f9db4fb5b63a2c925f21fb88cdea6/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/anim/abc_popup_enter.xml"
+    }
+]
