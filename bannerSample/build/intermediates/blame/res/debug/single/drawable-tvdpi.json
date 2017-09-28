@@ -1,150 +1,150 @@
 [
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
-        "source": "/Users/jerry.hu/.android/build-cache/5efced784c34edbd84df865983f7a13c7aca6878/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
-        "source": "/Users/jerry.hu/.android/build-cache/5efced784c34edbd84df865983f7a13c7aca6878/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_full_open_on_phone.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png",
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png",
         "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
-        "source": "/Users/jerry.hu/.android/build-cache/5efced784c34edbd84df865983f7a13c7aca6878/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
         "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_full_open_on_phone.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
+        "source": "/Users/jerry.hu/.android/build-cache/5efced784c34edbd84df865983f7a13c7aca6878/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
         "source": "/Users/jerry.hu/.android/build-cache/5efced784c34edbd84df865983f7a13c7aca6878/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png"
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
+        "source": "/Users/jerry.hu/.android/build-cache/5efced784c34edbd84df865983f7a13c7aca6878/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png",
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png",
         "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png",
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
+        "source": "/Users/jerry.hu/.android/build-cache/5efced784c34edbd84df865983f7a13c7aca6878/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png",
         "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png"
     }
 ]

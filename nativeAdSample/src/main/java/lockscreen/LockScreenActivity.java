@@ -107,7 +107,14 @@ public class LockScreenActivity extends AppCompatActivity {
             public void onActionRequired(InMobiNative inMobiNative) {
                 Log.e("LockScreenActivity","onActionRequired");
                 finish();
-                //nativeAd.takeAction();
+                //必须的，为了打开落地页
+                /**
+                 * clicking to any ad will require to
+                 * open browser or play store both can not be opened on lockscreen
+                 * so we first need to dismiss the lock screen and open home screen
+                 * where if we call  take action it will open landing page.
+                 */
+                nativeAd.takeAction();
             }
         });
 

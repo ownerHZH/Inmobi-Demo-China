@@ -1,102 +1,102 @@
 [
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/color/common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/e0732af801d8ab7ad244265be91239ad5ba61deb/output/res/color/wallet_secondary_text_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_default.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/5ee8e9ec50d060bfbcb64a910b3fe7ec4efe84ec/output/res/color/design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/e0732af801d8ab7ad244265be91239ad5ba61deb/output/res/color/wallet_primary_text_holo_light.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/color/common_plus_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/5ee8e9ec50d060bfbcb64a910b3fe7ec4efe84ec/output/res/color/design_error.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
         "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/5ee8e9ec50d060bfbcb64a910b3fe7ec4efe84ec/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/5ee8e9ec50d060bfbcb64a910b3fe7ec4efe84ec/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e0732af801d8ab7ad244265be91239ad5ba61deb/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e0732af801d8ab7ad244265be91239ad5ba61deb/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color/switch_thumb_material_light.xml"
     }
 ]

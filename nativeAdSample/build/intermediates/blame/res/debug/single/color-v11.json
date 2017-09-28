@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/nativeAdSample/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

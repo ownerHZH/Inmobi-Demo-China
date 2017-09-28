@@ -179,7 +179,6 @@ public class SplashFullscreenActivity extends AppCompatActivity implements View.
                     //button.setText("OPEN");
                     Log.e(TAG, "onAdStatusChanged OPEN");
                 }
-
             }
         });
 

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/jerry.hu/Downloads/samples/interstitialSample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -1265,7 +1265,7 @@
                     "endOffset": 4922
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1284,7 +1284,7 @@
                     "endOffset": 4969
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 5020
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1436,7 +1436,7 @@
                     "endOffset": 5549
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -2063,7 +2063,7 @@
                     "endOffset": 7705
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2158,7 +2158,7 @@
                     "endOffset": 8035
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -2424,7 +2424,7 @@
                     "endOffset": 8993
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -3811,7 +3811,7 @@
                     "endOffset": 49888
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -3830,7 +3830,7 @@
                     "endOffset": 49944
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4552,7 +4552,7 @@
                     "endOffset": 52347
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -4571,7 +4571,7 @@
                     "endOffset": 52401
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -4590,7 +4590,7 @@
                     "endOffset": 52449
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4609,7 +4609,7 @@
                     "endOffset": 52509
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -4628,7 +4628,7 @@
                     "endOffset": 52569
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -4647,7 +4647,7 @@
                     "endOffset": 52628
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -4666,7 +4666,7 @@
                     "endOffset": 52682
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -4685,7 +4685,7 @@
                     "endOffset": 52735
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -4704,7 +4704,7 @@
                     "endOffset": 52798
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -4723,7 +4723,7 @@
                     "endOffset": 52854
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -4742,7 +4742,7 @@
                     "endOffset": 52905
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -6148,7 +6148,7 @@
                     "endOffset": 57860
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -6167,7 +6167,7 @@
                     "endOffset": 57938
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -6186,7 +6186,7 @@
                     "endOffset": 58002
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -6262,7 +6262,7 @@
                     "endOffset": 58403
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -6300,7 +6300,7 @@
                     "endOffset": 58585
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -6319,7 +6319,7 @@
                     "endOffset": 58636
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -6338,7 +6338,7 @@
                     "endOffset": 58697
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -6357,7 +6357,7 @@
                     "endOffset": 58788
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -7060,7 +7060,7 @@
                     "endOffset": 63419
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -7079,7 +7079,7 @@
                     "endOffset": 63488
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -7098,7 +7098,7 @@
                     "endOffset": 63553
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -7117,7 +7117,7 @@
                     "endOffset": 63610
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -7136,7 +7136,7 @@
                     "endOffset": 63666
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -7155,7 +7155,7 @@
                     "endOffset": 63732
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -7174,7 +7174,7 @@
                     "endOffset": 63808
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -7193,7 +7193,7 @@
                     "endOffset": 63872
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -7212,7 +7212,7 @@
                     "endOffset": 63948
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -7231,7 +7231,7 @@
                     "endOffset": 64022
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -7250,7 +7250,7 @@
                     "endOffset": 64068
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -7592,7 +7592,7 @@
                     "endOffset": 65368
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -7611,7 +7611,7 @@
                     "endOffset": 65440
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -7630,7 +7630,7 @@
                     "endOffset": 65512
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -7649,7 +7649,7 @@
                     "endOffset": 65589
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -7668,7 +7668,7 @@
                     "endOffset": 65673
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -7687,7 +7687,7 @@
                     "endOffset": 65745
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -7706,7 +7706,7 @@
                     "endOffset": 65821
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -7725,7 +7725,7 @@
                     "endOffset": 65897
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -7744,7 +7744,7 @@
                     "endOffset": 65971
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -7763,7 +7763,7 @@
                     "endOffset": 66045
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -7782,7 +7782,7 @@
                     "endOffset": 66127
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -7801,7 +7801,7 @@
                     "endOffset": 66180
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -7820,7 +7820,7 @@
                     "endOffset": 66230
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -7839,7 +7839,7 @@
                     "endOffset": 66278
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -7858,7 +7858,7 @@
                     "endOffset": 66329
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -7994,7 +7994,7 @@
                     "endOffset": 67367
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/styles.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -10837,7 +10837,7 @@
                     "endOffset": 132199
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/interstitialSample/src/main/res/values/styles.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,

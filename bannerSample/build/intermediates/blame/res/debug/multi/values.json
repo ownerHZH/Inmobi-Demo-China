@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/jerry.hu/Downloads/samples/bannerSample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -1075,7 +1075,7 @@
                     "endOffset": 4223
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1094,7 +1094,7 @@
                     "endOffset": 4270
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1113,7 +1113,7 @@
                     "endOffset": 4321
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1246,7 +1246,7 @@
                     "endOffset": 4850
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1873,7 +1873,7 @@
                     "endOffset": 7006
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1968,7 +1968,7 @@
                     "endOffset": 7336
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -2234,7 +2234,7 @@
                     "endOffset": 8294
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/colors.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -3621,7 +3621,7 @@
                     "endOffset": 39848
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -3640,7 +3640,7 @@
                     "endOffset": 39904
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -3697,7 +3697,7 @@
                     "endOffset": 40130
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -3716,7 +3716,7 @@
                     "endOffset": 40184
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -3735,7 +3735,7 @@
                     "endOffset": 40232
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -3754,7 +3754,7 @@
                     "endOffset": 40292
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -3773,7 +3773,7 @@
                     "endOffset": 40352
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -3792,7 +3792,7 @@
                     "endOffset": 40411
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3811,7 +3811,7 @@
                     "endOffset": 40465
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -3830,7 +3830,7 @@
                     "endOffset": 40518
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3849,7 +3849,7 @@
                     "endOffset": 40581
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -3868,7 +3868,7 @@
                     "endOffset": 40637
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -3887,7 +3887,7 @@
                     "endOffset": 40688
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/dimens.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -5141,7 +5141,7 @@
                     "endOffset": 45120
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -5198,7 +5198,7 @@
                     "endOffset": 45376
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -5882,7 +5882,7 @@
                     "endOffset": 49916
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -5901,7 +5901,7 @@
                     "endOffset": 49985
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -5920,7 +5920,7 @@
                     "endOffset": 50052
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -5939,7 +5939,7 @@
                     "endOffset": 50119
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -5958,7 +5958,7 @@
                     "endOffset": 50186
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -5977,7 +5977,7 @@
                     "endOffset": 50261
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -5996,7 +5996,7 @@
                     "endOffset": 50307
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -6338,7 +6338,7 @@
                     "endOffset": 51607
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -6357,7 +6357,7 @@
                     "endOffset": 51679
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/strings.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -6472,7 +6472,7 @@
                     "endOffset": 52430
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/styles.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -9273,7 +9273,7 @@
                     "endOffset": 116517
                 },
                 "from": {
-                    "file": "/Users/jerry.hu/Downloads/samples/bannerSample/src/main/res/values/styles.xml",
+                    "file": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
