@@ -79,7 +79,7 @@ public class PhotosAdapter extends ArrayAdapter<PhotosFeedItem> {
                 viewHolder.icon.setImageURI(Uri.parse(photosFeedItem.imageUrl));
                 viewHolder.desc.setText(photosFeedItem.description);
                 viewHolder.con_view.removeAllViews();
-                viewHolder.con_view.addView(nativeAd.getPrimaryViewOfWidth(viewHolder.con_view,parent,0));
+                viewHolder.con_view.addView(nativeAd.getPrimaryViewOfWidth(mContext,viewHolder.con_view,parent,0));
                 viewHolder.icon.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {

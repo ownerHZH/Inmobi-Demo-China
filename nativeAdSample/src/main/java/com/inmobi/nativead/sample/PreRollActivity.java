@@ -79,7 +79,7 @@ public class PreRollActivity extends AppCompatActivity {
                 item.inMobiNative=new WeakReference<>(inMobiNative);
                 //item.view =inMobiNative.getPrimaryViewOfWidth(mAdapter.,viewGroup,0);
                 mContentView.removeAllViews();
-                mContentView.addView(inMobiNative.getPrimaryViewOfWidth(mContentView,mContentView,0));
+                mContentView.addView(inMobiNative.getPrimaryViewOfWidth(PreRollActivity.this,mContentView,mContentView,0));
 
                 mContentView.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -185,7 +185,7 @@ public class PreRollActivity extends AppCompatActivity {
         //mContentView.updateViewLayout();
         //mContentView.refreshDrawableState();
 
-        View view=nativeAd.getPrimaryViewOfWidth(mContentView,mContentView,0);
+        View view=nativeAd.getPrimaryViewOfWidth(PreRollActivity.this,mContentView,mContentView,0);
         ViewGroup.LayoutParams params = view.getLayoutParams();
         params.height = mHeight;
         params.width = mWidth;

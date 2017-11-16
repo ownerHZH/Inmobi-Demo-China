@@ -42,5 +42,6 @@ dependencies {
     compile "com.google.android.gms:play-services:${gmsVersion}"
     compile 'com.google.android:multidex:0.1'
     compile 'com.squareup.picasso:picasso:2.5.2'
-    compile files('libs/InMobi-6.9.1.jar')
+    //compile files('libs/InMobi-6.9.1.jar')
+    compile files('libs/InMobi-7.0.0-China.jar')
 }

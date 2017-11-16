@@ -86,7 +86,7 @@ public class CustomPagerAdapter extends PagerAdapter {
                 imageView.setVisibility(View.GONE);
                 tag.setText("Sponsored");
                 lineaeview.removeAllViews();
-                lineaeview.addView(nativeAd.getPrimaryViewOfWidth(lineaeview,container,0));
+                lineaeview.addView(nativeAd.getPrimaryViewOfWidth(mContext,lineaeview,container,0));
             }
         }
 

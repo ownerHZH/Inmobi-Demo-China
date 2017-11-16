@@ -1,0 +1,4 @@
+#Fri Nov 10 12:30:29 CST 2017
+base.0=/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

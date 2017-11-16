@@ -64,7 +64,7 @@ public class BannerAdsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         Fresco.initialize(this);
 
-        InMobiSdk.init(this, "1234567890qwerty0987654321qwerty12345");
+        InMobiSdk.init(this, "35cd4640484c490d8d7b59484fa52952");
         InMobiSdk.setLogLevel(InMobiSdk.LogLevel.DEBUG);
         setContentView(R.layout.activity_banner_ads);
         btnXmlIntegration = (Button) findViewById(R.id.btnXmlIntegration);
@@ -75,7 +75,7 @@ public class BannerAdsActivity extends AppCompatActivity {
             }
         });
         setupListView();
-        getHeadlines();
+        //getHeadlines();
         setupBannerAd();
     }
 

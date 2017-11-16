@@ -74,7 +74,7 @@ public class SplashFullscreenActivity extends AppCompatActivity implements View.
 
         Fresco.initialize(this);
 
-        InMobiSdk.init(this, "3367e3af2fc148bcb8a4c8a3f16a5bd8");
+        InMobiSdk.init(this, "35cd4640484c490d8d7b59484fa52952");
         InMobiSdk.setLogLevel(InMobiSdk.LogLevel.DEBUG);
 
         //AdNetworkRequest.setGzipEnabled(false);
@@ -110,6 +110,7 @@ public class SplashFullscreenActivity extends AppCompatActivity implements View.
 
 
                     JSONObject content = inMobiNative.getCustomAdContent();
+                    //Log.e("da",nativeAd.getCustomAdContent() + "") ;
                     Log.e(TAG, "onAdLoadSucceeded===" + content.toString());
                     NewsSnippet item = new NewsSnippet();
                     item.title = inMobiNative.getAdTitle();//content.getString(Constants.AdJsonKeys.AD_TITLE);
@@ -120,7 +121,14 @@ public class SplashFullscreenActivity extends AppCompatActivity implements View.
                     item.inMobiNative=new WeakReference<>(inMobiNative);
                     //item.view =inMobiNative.getPrimaryViewOfWidth(mAdapter.,viewGroup,0);
                     FrameLayoutView.removeAllViews();
-                    FrameLayoutView.addView(inMobiNative.getPrimaryViewOfWidth(FrameLayoutView,FrameLayoutView,FrameLayoutView.getWidth()));
+
+                /**
+                 * 为了适应9：18的全面屏设备 开屏有3种方式：
+                 *   1. 开屏的container设置垂直居中
+                 *   2. getPrimaryViewOfWidth中的最后一个参数width值可以传：（素材的宽度*设备的高度/素材的高度）
+                 *   3. 调整自己的logo高度 【如果开屏展示自家的logo】
+                 */
+                  FrameLayoutView.addView(inMobiNative.getPrimaryViewOfWidth(SplashFullscreenActivity.this,FrameLayoutView,FrameLayoutView,FrameLayoutView.getWidth()));
 
 
             }
@@ -183,6 +191,8 @@ public class SplashFullscreenActivity extends AppCompatActivity implements View.
         });
 
         Map<String,String> map=new HashMap<>();
+        //map.put("tp","c_admob");
+        Log.d("da",nativeAd.getCustomAdContent() + "") ;
         nativeAd.setExtras(map);
         nativeAd.setDownloaderEnabled(true);
         nativeAd.load();

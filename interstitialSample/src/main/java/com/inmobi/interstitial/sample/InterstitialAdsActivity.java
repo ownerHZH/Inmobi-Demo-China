@@ -18,7 +18,7 @@ public class InterstitialAdsActivity extends AppCompatActivity {
     private Button mLoadAdButton;
     private Button mShowAdButton;
     private Button mShowAdWithAnimation;
-    private final String TAG = InterstitialAdsActivity.class.getSimpleName();
+    private final String TAG = "Inmobi";
 
 
     @Override
@@ -67,21 +67,22 @@ public class InterstitialAdsActivity extends AppCompatActivity {
                     @Override
                     public void onAdLoadFailed(InMobiInterstitial inMobiInterstitial, InMobiAdRequestStatus inMobiAdRequestStatus) {
                         Log.d(TAG, "Unable to load interstitial ad (error message: " +
-                                inMobiAdRequestStatus.getMessage());
+                                inMobiAdRequestStatus.getMessage()+"ID:"+PlacementId.YOUR_PLACEMENT_ID);
                     }
 
                     @Override
                     public void onAdReceived(InMobiInterstitial inMobiInterstitial) {
-                        Log.d(TAG, "onAdReceived");
+                        Log.d(TAG, "onAdReceived"+"ID:"+PlacementId.YOUR_PLACEMENT_ID);
                     }
 
                     @Override
                     public void onAdLoadSucceeded(InMobiInterstitial inMobiInterstitial) {
-                        Log.d(TAG, "onAdLoadSuccessful");
+                        Log.d(TAG, "onAdLoadSuccessful"+"ID:"+PlacementId.YOUR_PLACEMENT_ID);
                         if (inMobiInterstitial.isReady()) {
                             if (mShowAdButton != null) {
                                 mShowAdButton.setVisibility(View.VISIBLE);
                                 mShowAdWithAnimation.setVisibility(View.VISIBLE);
+
                             }
                         } else {
                             Log.d(TAG, "onAdLoadSuccessful inMobiInterstitial not ready");

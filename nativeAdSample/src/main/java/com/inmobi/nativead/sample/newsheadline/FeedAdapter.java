@@ -78,7 +78,7 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
             viewHolder.con_view.setVisibility(View.VISIBLE);
             viewHolder.con_view.removeAllViews();
 
-            viewHolder.con_view.addView(newsSnippet.inMobiNative.get().getPrimaryViewOfWidth(viewHolder.con_view,parent,1));
+            viewHolder.con_view.addView(newsSnippet.inMobiNative.get().getPrimaryViewOfWidth(mContext,viewHolder.con_view,parent,1));
 
             if(newsSnippet.inMobiNative.get().isAppDownload()){
                 if(newsSnippet.inMobiNative.get().getDownloader().getDownloadStatus() == InMobiNative.Downloader.STATE_DOWNLOADED){

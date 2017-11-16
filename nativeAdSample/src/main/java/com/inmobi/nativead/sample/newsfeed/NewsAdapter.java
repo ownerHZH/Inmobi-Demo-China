@@ -72,7 +72,7 @@ public class NewsAdapter extends ArrayAdapter<NewsTileItem> {
                 });
 
                 viewHolder.pixview.removeAllViews();
-                viewHolder.pixview.addView(nativeAd.getPrimaryViewOfWidth(viewHolder.pixview,parent,1));
+                viewHolder.pixview.addView(nativeAd.getPrimaryViewOfWidth(mContext,viewHolder.pixview,parent,1));
 
             }
         }

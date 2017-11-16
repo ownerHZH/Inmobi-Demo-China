@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="InMobi-7.0.0-China">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/nativeAdSample/libs/InMobi-7.0.0-China.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interstitialSample/libs/InMobi-7.0.0-China.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

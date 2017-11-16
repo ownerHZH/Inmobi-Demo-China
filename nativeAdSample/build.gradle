@@ -49,5 +49,6 @@ dependencies {
     compile 'com.facebook.fresco:fresco:0.5.0'
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.android.support:support-v4:24.2.1'
-    compile files('libs/InMobi-7.0.0-China.jar')
+    //compile files('libs/InMobi-7.0.0-China.jar')
+    compile files('libs/InMobi-7.0.1.jar')
 }

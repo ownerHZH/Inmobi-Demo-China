@@ -89,7 +89,7 @@ public  class GridAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
             Log.e("GridAdapter","else if(holder instanceof MyViewHolder2)");
             InMobiNative inmobiNative=datas.get(position).getInMobiNative().get();
             View view=inmobiNative
-                    .getPrimaryViewOfWidth(
+                    .getPrimaryViewOfWidth(mContext,
                             ((MyViewHolder2) holder).container_view,
                             ((MyViewHolder2) holder).container_view,
                             ((MyViewHolder2) holder).container_view.getWidth());

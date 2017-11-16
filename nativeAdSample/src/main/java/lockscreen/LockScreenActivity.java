@@ -53,7 +53,7 @@ public class LockScreenActivity extends AppCompatActivity {
             public void onAdLoadSucceeded(@NonNull InMobiNative inMobiNative) {
                 Log.e("LockScreenActivity","onAdLoadSucceeded");
                 container.removeAllViews();
-                container.addView(inMobiNative.getPrimaryViewOfWidth(container,container,container.getWidth()));
+                container.addView(inMobiNative.getPrimaryViewOfWidth(LockScreenActivity.this,container,container,container.getWidth()));
             }
 
             @Override
