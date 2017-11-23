@@ -248,7 +248,7 @@ public class NewsHeadlinesFragment extends ListFragment implements NativeProvide
             nativeAd.setDownloaderEnabled(true);
             nativeAd.load();
             Map<String,String>map=new HashMap<>();
-            map.put("x-forwarded-for","106.39.48.50");
+            //map.put("x-forwarded-for","106.39.48.50");
             nativeAd.setExtras(map);
             mNativeAds[i] = nativeAd;
         }

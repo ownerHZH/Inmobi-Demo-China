@@ -20,6 +20,7 @@ import android.widget.TextView;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 import java.util.List;
+import java.util.Random;
 
 public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
 
@@ -50,6 +51,7 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
             viewHolder.icon = (SimpleDraweeView) convertView.findViewById(R.id.photo);
             viewHolder.tag = (TextView) convertView.findViewById(R.id.sponsored);
             viewHolder.con_view=(LinearLayout)convertView.findViewById(R.id.container_view);
+            viewHolder.con_view_small=(LinearLayout)convertView.findViewById(R.id.container_view_small);
             viewHolder.btn = (Button)convertView.findViewById(R.id.btn);
             viewHolder.pb = (ProgressBar) convertView.findViewById(R.id.pb);
             viewHolder.pb.setMax(100);
@@ -62,23 +64,48 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
         final NewsSnippet newsSnippet = mItems.get(position);
         viewHolder.headline.setText(newsSnippet.title);
         viewHolder.content.setText(newsSnippet.description);
-        viewHolder.icon.setImageURI(Uri.parse(newsSnippet.imageUrl));
+
         viewHolder.tag.setVisibility(View.VISIBLE);
         viewHolder.tag.setText("Sponsored");
         Log.e("Adapter==",newsSnippet.imageUrl);
         if(null==newsSnippet.inMobiNative||null==newsSnippet.inMobiNative.get())
         {
             viewHolder.con_view.setVisibility(View.GONE);
+            viewHolder.con_view_small.setVisibility(View.GONE);
             viewHolder.tag.setVisibility(View.GONE);
             viewHolder.btn.setVisibility(View.GONE);
             viewHolder.pb.setVisibility(View.INVISIBLE);
+            viewHolder.icon.setVisibility(View.VISIBLE);
+            viewHolder.icon.setImageURI(Uri.parse(newsSnippet.imageUrl));
         } else{
-            viewHolder.tag.setVisibility(View.VISIBLE);
-            viewHolder.tag.setText("Sponsored");
-            viewHolder.con_view.setVisibility(View.VISIBLE);
-            viewHolder.con_view.removeAllViews();
 
-            viewHolder.con_view.addView(newsSnippet.inMobiNative.get().getPrimaryViewOfWidth(mContext,viewHolder.con_view,parent,1));
+            //随机大小图
+            if(FeedAdapter.getNum(10)>5)
+            {
+                viewHolder.tag.setVisibility(View.VISIBLE);
+                viewHolder.tag.setText("Sponsored");
+                viewHolder.icon.setVisibility(View.VISIBLE);
+                viewHolder.icon.setImageURI(Uri.parse(newsSnippet.imageUrl));
+                viewHolder.con_view.setVisibility(View.VISIBLE);
+                viewHolder.con_view_small.setVisibility(View.GONE);
+                viewHolder.con_view.removeAllViews();
+                viewHolder.con_view.addView(newsSnippet.inMobiNative.get().getPrimaryViewOfWidth(mContext,viewHolder.con_view,parent,viewHolder.con_view.getWidth()));
+
+                convertView.setTag(R.id.container_view,position);
+            }else
+            {
+                viewHolder.tag.setVisibility(View.VISIBLE);
+                viewHolder.tag.setText("Sponsored");
+                viewHolder.con_view.setVisibility(View.GONE);
+                viewHolder.icon.setVisibility(View.GONE);
+                viewHolder.con_view_small.setVisibility(View.VISIBLE);
+                viewHolder.con_view_small.removeAllViews();
+                viewHolder.con_view_small.addView(newsSnippet.inMobiNative.get().getPrimaryViewOfWidth(mContext,viewHolder.con_view_small,parent,viewHolder.con_view_small.getWidth()));
+
+                convertView.setTag(R.id.container_view_small,position);
+            }
+
+
 
             if(newsSnippet.inMobiNative.get().isAppDownload()){
                 if(newsSnippet.inMobiNative.get().getDownloader().getDownloadStatus() == InMobiNative.Downloader.STATE_DOWNLOADED){
@@ -123,8 +150,6 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
             }
 
         }
-
-        convertView.setTag(R.id.container_view,position);
 
         return convertView;
     }
@@ -172,8 +197,21 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
         TextView content;
         TextView tag;
         SimpleDraweeView icon;
-        LinearLayout con_view;
+        LinearLayout con_view,con_view_small;
         ProgressBar pb;
         Button btn;
+    }
+
+    /**
+     * 生成一个0 到 count 之间的随机数
+     * @param endNum
+     * @return
+     */
+    public static int getNum(int endNum){
+        if(endNum > 0){
+            Random random = new Random();
+            return random.nextInt(endNum);
+        }
+        return 0;
     }
 }

@@ -145,7 +145,12 @@ public class SplashFullscreenActivity extends AppCompatActivity implements View.
 
             @Override
             public void onAdFullScreenWillDisplay(InMobiNative inMobiNative) {
-
+                String str="<div class=\"layui-form-item\">\n" +
+                        "    <label class=\"layui-form-label\">开关-默认开</label>\n" +
+                        "    <div class=\"layui-input-block\">\n" +
+                        "      <input type=\"checkbox\" checked=\"\" name=\"open\" lay-skin=\"switch\" lay-filter=\"switchTest\" lay-text=\"ON|OFF\">\n" +
+                        "    </div>\n" +
+                        "  </div>";
             }
 
             @Override
@@ -173,7 +178,25 @@ public class SplashFullscreenActivity extends AppCompatActivity implements View.
 
             @Override
             public void onMediaPlaybackComplete(@NonNull InMobiNative inMobiNative) {
-                Log.e(TAG, "onMediaPlaybackComplete ");
+                Log.e(TAG, "<fieldset class=\"layui-elem-field\">\n" +
+                        "\t                  <legend>Title</legend>\n" +
+                        "\t                  <div class=\"layui-field-box\">\n" +
+                        "\t                     <div class=\"m\">\n" +
+                        "\t\t\t\t\t\t\t  <video id=\"my-video\" class=\"video-js\" controls preload=\"auto\" width=\"300\"\n" +
+                        "\t\t\t\t\t\t\t  poster=\"m.png\" data-setup=\"{}\">\n" +
+                        "\t\t\t\t\t\t\t\t<source src=\"http://jq22com.qiniudn.com/jq22-sp.mp4\" type=\"video/mp4\">\t\t\t\t\t\n" +
+                        "\t\t\t\t\t\t\t  </video>\t\t\t\t\t\t\t  \n" +
+                        "\t\t                 </div>\n" +
+                        "\t\t                 <div class=\"layui-row\" style=\"margin-top: 10px;\">\n" +
+                        "\t\t\t\t\t\t\t\t    <div class=\"layui-col-xs6\">\n" +
+                        "\t\t\t\t\t\t\t\t      <div style=\"font-size:15px;\">在线</div>\n" +
+                        "\t\t\t\t\t\t\t\t    </div>\n" +
+                        "\t\t\t\t\t\t\t\t    <div class=\"layui-col-xs6\" style=\"text-align:right;\">\n" +
+                        "\t\t\t\t\t\t\t\t      <div><button class=\"layui-btn layui-btn-normal layui-btn-radius\">下架</button></div> \n" +
+                        "\t\t\t\t\t\t\t\t    </div>\n" +
+                        "\t\t\t\t\t\t\t\t  </div>\n" +
+                        "\t                  </div>\n" +
+                        "\t            </fieldset>");
             }
 
             @Override
