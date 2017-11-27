@@ -145,12 +145,7 @@ public class SplashFullscreenActivity extends AppCompatActivity implements View.
 
             @Override
             public void onAdFullScreenWillDisplay(InMobiNative inMobiNative) {
-                String str="<div class=\"layui-form-item\">\n" +
-                        "    <label class=\"layui-form-label\">开关-默认开</label>\n" +
-                        "    <div class=\"layui-input-block\">\n" +
-                        "      <input type=\"checkbox\" checked=\"\" name=\"open\" lay-skin=\"switch\" lay-filter=\"switchTest\" lay-text=\"ON|OFF\">\n" +
-                        "    </div>\n" +
-                        "  </div>";
+                String str="<div class=\"layui-col-xs3\" style=\"text-align:center;padding-left:10px;padding-right:10px\">";
             }
 
             @Override

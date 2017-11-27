@@ -1,4 +1,4 @@
-#Thu Nov 23 11:35:27 CST 2017
+#Fri Nov 24 11:49:57 CST 2017
 base.0=/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_72bf1d6669d34d11003dac9b58f9e6249f88fb91
 renamed.1=classes.dex
 renamed.0=classes2.dex
