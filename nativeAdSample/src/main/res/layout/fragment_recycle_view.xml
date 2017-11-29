@@ -1,8 +1,17 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.inmobi.nativead.sample.recycleview.RecycleViewFragment">
+
+    <LinearLayout
+        android:id="@+id/bigPic"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+    </LinearLayout>
 
     <!-- TODO: Update blank fragment layout -->
     <!--本文主角-->
@@ -12,4 +21,4 @@
         android:layout_height="match_parent"
         />
 
-</FrameLayout>
+</LinearLayout>

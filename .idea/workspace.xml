@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
     <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
   </component>
@@ -16,21 +16,63 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_bannerSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_bannerSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_bannerSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_bannerSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_bannerSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_bannerSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_nativeAdSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_nativeAdSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_nativeAdSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_nativeAdSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_nativeAdSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_nativeAdSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/nativeAdSample/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bannerSample/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/bannerSample/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bannerSample/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/bannerSample/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bannerSample/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/bannerSample/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bannerSample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/bannerSample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bannerSample/src/main/java/com/inmobi/banner/sample/BannerAdsActivity.java" afterPath="$PROJECT_DIR$/bannerSample/src/main/java/com/inmobi/banner/sample/BannerAdsActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interstitialSample/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/interstitialSample/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interstitialSample/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/interstitialSample/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interstitialSample/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/interstitialSample/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interstitialSample/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/interstitialSample/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interstitialSample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/interstitialSample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/android/support/design/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/android/support/v7/mediarouter/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/android/support/v7/mediarouter/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/ads/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/ads/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/analytics/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/analytics/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/appinvite/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/appinvite/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/appstate/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/appstate/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/auth/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/auth/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/base/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/base/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/cast/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/cast/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/drive/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/drive/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/fitness/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/fitness/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/games/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/games/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/gcm/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/gcm/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/identity/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/identity/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/location/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/location/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/maps/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/maps/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/measurement/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/measurement/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/nearby/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/nearby/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/panorama/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/panorama/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/plus/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/plus/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/safetynet/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/safetynet/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/vision/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/vision/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/inmobi/nativead/sample/R.java" afterPath="$PROJECT_DIR$/nativeAdSample/build/generated/source/r/debug/com/inmobi/nativead/sample/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/nativeAdSample/build/intermediates/blame/res/debug/single/drawable.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/nativeAdSample/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/nativeAdSample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/intermediates/res/merged/debug/layout/fragment_recycle_view.xml" afterPath="$PROJECT_DIR$/nativeAdSample/build/intermediates/res/merged/debug/layout/fragment_recycle_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/intermediates/res/merged/debug/layout/page_item.xml" afterPath="$PROJECT_DIR$/nativeAdSample/build/intermediates/res/merged/debug/layout/page_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/nativeAdSample/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PlacementId.java" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PlacementId.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PreRollActivity.java" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PreRollActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/SplashFullscreenActivity.java" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/SplashFullscreenActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/FeedAdapter.java" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/FeedAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsHeadlinesFragment.java" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsHeadlinesFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsSnippet.java" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsSnippet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/GridAdapter.java" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/GridAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/RecycleViewFragment.java" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/RecycleViewFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/fragment_recycle_view.xml" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/fragment_recycle_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/page_item.xml" afterPath="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/page_item.xml" />
     </list>
     <ignored path="samples.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,55 +109,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SplashFullscreenActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/SplashFullscreenActivity.java">
+      <file leaf-file-name="RecycleViewFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/RecycleViewFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1605">
-              <caret line="133" column="13" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+            <state relative-caret-position="-22">
+              <caret line="124" column="13" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlacementId.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PlacementId.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewsHeadlinesFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsHeadlinesFragment.java">
+      <file leaf-file-name="GridAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/GridAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2310">
-              <caret line="187" column="43" selection-start-line="187" selection-start-column="43" selection-end-line="187" selection-end-column="43" />
+            <state relative-caret-position="353">
+              <caret line="104" column="66" selection-start-line="104" selection-start-column="66" selection-end-line="104" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FeedAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/FeedAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="150" column="32" selection-start-line="150" selection-start-column="12" selection-end-line="150" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BannerAdsActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bannerSample/src/main/java/com/inmobi/banner/sample/BannerAdsActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news_headline_view.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/news_headline_view.xml">
+      <file leaf-file-name="page_item.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/page_item.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="384">
+              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding />
             </state>
           </provider>
           <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_recycle_view.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/fragment_recycle_view.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
             <state />
           </provider>
         </entry>
@@ -4198,14 +4245,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/fragment_recycle_view.xml" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/grid_meizi_item.xml" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/NativeAdsActivity.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/Meizi.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/SectionsPagerAdapter.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/news_tile_view.xml" />
-        <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/RecycleViewFragment.java" />
-        <option value="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/page_item.xml" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/lockscreen/utils/LockWindowAccessibilityService.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/lockscreen/MainActivity.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/res/values/strings.xml" />
@@ -4219,22 +4263,25 @@
         <option value="$PROJECT_DIR$/interstitialSample/src/main/java/com/inmobi/interstitial/sample/PlacementId.java" />
         <option value="$PROJECT_DIR$/interstitialSample/build.gradle" />
         <option value="$PROJECT_DIR$/interstitialSample/src/main/java/com/inmobi/interstitial/sample/InterstitialAdsActivity.java" />
-        <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PlacementId.java" />
         <option value="$PROJECT_DIR$/bannerSample/src/main/java/com/inmobi/banner/sample/PlacementId.java" />
         <option value="$PROJECT_DIR$/bannerSample/build.gradle" />
         <option value="$PROJECT_DIR$/nativeAdSample/build.gradle" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsfeed/NewsAdapter.java" />
-        <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/GridAdapter.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/photofeed/PhotosAdapter.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/photopages/CustomPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PreRollActivity.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/lockscreen/LockScreenActivity.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/news_headline_view.xml" />
+        <option value="$PROJECT_DIR$/bannerSample/src/main/java/com/inmobi/banner/sample/BannerAdsActivity.java" />
+        <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PreRollActivity.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/SplashFullscreenActivity.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsSnippet.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsHeadlinesFragment.java" />
         <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/FeedAdapter.java" />
-        <option value="$PROJECT_DIR$/bannerSample/src/main/java/com/inmobi/banner/sample/BannerAdsActivity.java" />
+        <option value="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/fragment_recycle_view.xml" />
+        <option value="$PROJECT_DIR$/nativeAdSample/src/main/res/layout/page_item.xml" />
+        <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/GridAdapter.java" />
+        <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/RecycleViewFragment.java" />
+        <option value="$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PlacementId.java" />
       </list>
     </option>
   </component>
@@ -4296,7 +4343,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bannerSample" />
+              <option name="myItemId" value="nativeAdSample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -4310,7 +4357,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bannerSample" />
+              <option name="myItemId" value="nativeAdSample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -4332,7 +4379,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bannerSample" />
+              <option name="myItemId" value="nativeAdSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InmobiDemo-China" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InmobiDemo-China" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nativeAdSample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -4349,6 +4422,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InmobiDemo-China" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InmobiDemo-China" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nativeAdSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recycleview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -4412,7 +4519,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="3UMDU16127001846" />
+    <property name="device.picker.selection" value="210c1e96" />
     <property name="DEBUGGABLE_DEVICE" value="xiaomi-mi_3w-210c1e96" />
     <property name="DEBUGGABLE_PROCESS" value="com.inmobi.nativead.sample" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
@@ -4430,7 +4537,7 @@
       <recent name="$PROJECT_DIR$/nativeAdSample/src/main/res/layout" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.bannerSample">
+  <component name="RunManager" selected="Android App.nativeAdSample">
     <configuration default="false" name="samples:nativeAdSample [assembleDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -4904,12 +5011,13 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31085527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -4929,7 +5037,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -4981,40 +5088,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/NativeAdsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/fragment_recycle_view.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/RecycleViewFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/page_item.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/nativeAdSample/libs/InMobi-6.9.1-SNAPSHOT.jar!/com/inmobi/ads/InMobiNative.class" />
     <entry file="jar://$PROJECT_DIR$/bannerSample/libs/InMobi-6.9.1.jar!/com/inmobi/ads/InMobiNative.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -5090,6 +5163,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -5174,14 +5248,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PlacementId.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bannerSample/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -5229,26 +5295,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/GridAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="91" column="52" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/photopages/CustomPagerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="88" column="75" selection-start-line="88" selection-start-column="75" selection-end-line="88" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PreRollActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2415">
-          <caret line="187" column="70" selection-start-line="187" selection-start-column="70" selection-end-line="187" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5275,10 +5325,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsfeed/NewsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="146" column="55" selection-start-line="146" selection-start-column="55" selection-end-line="146" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bannerSample/src/main/java/com/inmobi/banner/sample/BannerAdsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="69" column="64" selection-start-line="69" selection-start-column="64" selection-end-line="69" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/news_headline_view.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="285">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PreRollActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/SplashFullscreenActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="119" column="143" selection-start-line="119" selection-start-column="143" selection-end-line="119" selection-end-column="143" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsHeadlinesFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="266" column="40" selection-start-line="266" selection-start-column="40" selection-end-line="266" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsSnippet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/FeedAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+          <folding>
+            <element signature="e#5402#5668#0" expanded="true" />
+            <element signature="e#5667#5668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/grid_meizi_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/page_item.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -5286,81 +5419,40 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsfeed/NewsFragment.java">
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/GridAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="146" column="55" selection-start-line="146" selection-start-column="55" selection-end-line="146" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/SplashFullscreenActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="133" column="13" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+        <state relative-caret-position="353">
+          <caret line="104" column="66" selection-start-line="104" selection-start-column="66" selection-end-line="104" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsSnippet.java">
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/res/layout/fragment_recycle_view.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/PlacementId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/recycleview/RecycleViewFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="124" column="13" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
           <folding>
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1067#1068#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
-            <element signature="e#1233#1234#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1349#1350#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-            <element signature="e#1444#1445#0" expanded="true" />
-            <element signature="e#1599#1600#0" expanded="true" />
-            <element signature="e#1627#1628#0" expanded="true" />
-            <element signature="e#1666#1667#0" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/NewsHeadlinesFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="187" column="43" selection-start-line="187" selection-start-column="43" selection-end-line="187" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nativeAdSample/src/main/java/com/inmobi/nativead/sample/newsheadline/FeedAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="150" column="32" selection-start-line="150" selection-start-column="12" selection-end-line="150" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bannerSample/src/main/java/com/inmobi/banner/sample/BannerAdsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>

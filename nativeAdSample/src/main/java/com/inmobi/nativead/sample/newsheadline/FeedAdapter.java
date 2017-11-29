@@ -30,6 +30,7 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
     private NativeProvider mNativeProvider;
     private LinearLayout container_view;
     private ViewHolder mViewHolder;
+    private NewsSnippet newsSnippet;
 
     public FeedAdapter(Context context, List<NewsSnippet> items, NativeProvider nativeProvider) {
         super(context, R.layout.news_headline_view, items);
@@ -61,14 +62,14 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
             viewHolder = (ViewHolder) convertView.getTag();
         }
 
-        final NewsSnippet newsSnippet = mItems.get(position);
+        newsSnippet = mItems.get(position);
         viewHolder.headline.setText(newsSnippet.title);
         viewHolder.content.setText(newsSnippet.description);
 
         viewHolder.tag.setVisibility(View.VISIBLE);
         viewHolder.tag.setText("Sponsored");
         Log.e("Adapter==",newsSnippet.imageUrl);
-        if(null==newsSnippet.getInMobiNative()||null==newsSnippet.getInMobiNative().get())
+        if(null==newsSnippet.getInMobiNative()&&null==newsSnippet.getSmallInMobiNative())
         {
             viewHolder.con_view.setVisibility(View.GONE);
             viewHolder.con_view_small.setVisibility(View.GONE);
@@ -88,10 +89,53 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
                 viewHolder.icon.setImageURI(Uri.parse(newsSnippet.imageUrl));
                 viewHolder.con_view.setVisibility(View.VISIBLE);
                 viewHolder.con_view_small.setVisibility(View.GONE);
-                viewHolder.con_view.removeAllViews();
-                viewHolder.con_view.addView(newsSnippet.inMobiNative.get().getPrimaryViewOfWidth(mContext,viewHolder.con_view,parent,viewHolder.con_view.getWidth()));
 
-                convertView.setTag(R.id.container_view,position);
+                viewHolder.con_view.removeAllViews();
+                viewHolder.con_view.addView(newsSnippet.getInMobiNative().getPrimaryViewOfWidth(mContext,viewHolder.con_view,viewHolder.con_view,viewHolder.con_view.getWidth()));
+
+                viewHolder.con_view.setTag(newsSnippet.getInMobiNative());
+                viewHolder.con_view_small.setTag(null);
+                if(newsSnippet.getInMobiNative().isAppDownload()){
+                    if(newsSnippet.getInMobiNative().getDownloader().getDownloadStatus() == InMobiNative.Downloader.STATE_DOWNLOADED){
+                        viewHolder.btn.setText("打开");
+                        viewHolder.pb.setProgress(100);
+                        viewHolder.pb.setVisibility(View.VISIBLE);
+                        viewHolder.icon.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                newsSnippet.getInMobiNative().reportAdClickAndOpenLandingPage();
+                            }
+                        });
+                        viewHolder.btn.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                newsSnippet.getInMobiNative().reportAdClickAndOpenLandingPage();
+                            }
+                        });
+                    }else {
+                        viewHolder.btn.setText("下载");
+                        viewHolder.icon.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                showDialog(viewHolder,newsSnippet.getInMobiNative());
+                            }
+                        });
+                        viewHolder.btn.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                showDialog(viewHolder,newsSnippet.getInMobiNative());
+                            }
+                        });
+                    }
+                    viewHolder.btn.setVisibility(View.VISIBLE);
+                }else {
+                    viewHolder.icon.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View v) {
+                            newsSnippet.getInMobiNative().reportAdClickAndOpenLandingPage();
+                        }
+                    });
+                }
             }else
             {
                 viewHolder.tag.setVisibility(View.VISIBLE);
@@ -100,55 +144,57 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
                 viewHolder.icon.setVisibility(View.GONE);
                 viewHolder.con_view_small.setVisibility(View.VISIBLE);
                 viewHolder.con_view_small.removeAllViews();
-                viewHolder.con_view_small.addView(newsSnippet.inMobiNative.get().getPrimaryViewOfWidth(mContext,viewHolder.con_view_small,parent,viewHolder.con_view_small.getWidth()));
+                //viewHolder.con_view.setTag();
+                viewHolder.con_view_small.addView(newsSnippet.getSmallInMobiNative().getPrimaryViewOfWidth(mContext,viewHolder.con_view_small,viewHolder.con_view_small,viewHolder.con_view_small.getWidth()));
 
-                convertView.setTag(R.id.container_view_small,position);
-            }
+                viewHolder.con_view.setTag(null);
+                viewHolder.con_view_small.setTag(newsSnippet.getSmallInMobiNative());
 
-
-
-            if(newsSnippet.inMobiNative.get().isAppDownload()){
-                if(newsSnippet.inMobiNative.get().getDownloader().getDownloadStatus() == InMobiNative.Downloader.STATE_DOWNLOADED){
-                    viewHolder.btn.setText("打开");
-                    viewHolder.pb.setProgress(100);
-                    viewHolder.pb.setVisibility(View.VISIBLE);
-                    viewHolder.icon.setOnClickListener(new View.OnClickListener() {
-                        @Override
-                        public void onClick(View v) {
-                            newsSnippet.inMobiNative.get().reportAdClickAndOpenLandingPage();
-                        }
-                    });
-                    viewHolder.btn.setOnClickListener(new View.OnClickListener() {
-                        @Override
-                        public void onClick(View v) {
-                            newsSnippet.inMobiNative.get().reportAdClickAndOpenLandingPage();
-                        }
-                    });
+                if(newsSnippet.getSmallInMobiNative().isAppDownload()){
+                    if(newsSnippet.getSmallInMobiNative().getDownloader().getDownloadStatus() == InMobiNative.Downloader.STATE_DOWNLOADED){
+                        viewHolder.btn.setText("打开");
+                        viewHolder.pb.setProgress(100);
+                        viewHolder.pb.setVisibility(View.VISIBLE);
+                        viewHolder.icon.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                newsSnippet.getSmallInMobiNative().reportAdClickAndOpenLandingPage();
+                            }
+                        });
+                        viewHolder.btn.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                newsSnippet.getSmallInMobiNative().reportAdClickAndOpenLandingPage();
+                            }
+                        });
+                    }else {
+                        viewHolder.btn.setText("下载");
+                        viewHolder.icon.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                showDialog(viewHolder,newsSnippet.getSmallInMobiNative());
+                            }
+                        });
+                        viewHolder.btn.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                showDialog(viewHolder,newsSnippet.getSmallInMobiNative());
+                            }
+                        });
+                    }
+                    viewHolder.btn.setVisibility(View.VISIBLE);
                 }else {
-                    viewHolder.btn.setText("下载");
                     viewHolder.icon.setOnClickListener(new View.OnClickListener() {
                         @Override
                         public void onClick(View v) {
-                            showDialog(viewHolder,newsSnippet.inMobiNative.get());
-                        }
-                    });
-                    viewHolder.btn.setOnClickListener(new View.OnClickListener() {
-                        @Override
-                        public void onClick(View v) {
-                            showDialog(viewHolder,newsSnippet.inMobiNative.get());
+                            newsSnippet.getSmallInMobiNative().reportAdClickAndOpenLandingPage();
                         }
                     });
                 }
-                viewHolder.btn.setVisibility(View.VISIBLE);
-            }else {
-                viewHolder.icon.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        newsSnippet.inMobiNative.get().reportAdClickAndOpenLandingPage();
-                    }
-                });
+
+
             }
-            notifyDataSetChanged();
+
         }
 
         return convertView;

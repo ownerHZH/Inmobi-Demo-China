@@ -13,8 +13,25 @@ public class NewsSnippet {
     public String landingUrl;
     public String description;
     public int progress = 0;
-    public WeakReference<InMobiNative> inMobiNative;
+    public InMobiNative inMobiNative;
+    public InMobiNative smallInMobiNative;
     public boolean isBig;
+
+    public InMobiNative getSmallInMobiNative() {
+        return smallInMobiNative;
+    }
+
+    public void setSmallInMobiNative(InMobiNative smallInMobiNative) {
+        this.smallInMobiNative = smallInMobiNative;
+    }
+
+    public InMobiNative getInMobiNative() {
+        return inMobiNative;
+    }
+
+    public void setInMobiNative(InMobiNative inMobiNative) {
+        this.inMobiNative = inMobiNative;
+    }
 
     public String getTitle() {
         return title;
@@ -64,13 +81,6 @@ public class NewsSnippet {
         this.progress = progress;
     }
 
-    public WeakReference<InMobiNative> getInMobiNative() {
-        return inMobiNative;
-    }
-
-    public void setInMobiNative(WeakReference<InMobiNative> inMobiNative) {
-        this.inMobiNative = inMobiNative;
-    }
 
     public boolean isBig() {
         return isBig;

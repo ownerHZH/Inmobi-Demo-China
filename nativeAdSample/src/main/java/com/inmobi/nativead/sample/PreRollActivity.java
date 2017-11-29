@@ -76,7 +76,6 @@ public class PreRollActivity extends AppCompatActivity {
                 item.imageUrl = inMobiNative.getAdIconUrl();//content.getJSONObject(Constants.AdJsonKeys.AD_IMAGE_OBJECT).
                 // getString(Constants.AdJsonKeys.AD_IMAGE_URL);
                 item.description=inMobiNative.getAdDescription();//content.getString(Constants.AdJsonKeys.AD_DESCRIPTION);
-                item.inMobiNative=new WeakReference<>(inMobiNative);
                 //item.view =inMobiNative.getPrimaryViewOfWidth(mAdapter.,viewGroup,0);
                 mContentView.removeAllViews();
                 mContentView.addView(inMobiNative.getPrimaryViewOfWidth(PreRollActivity.this,mContentView,mContentView,0));

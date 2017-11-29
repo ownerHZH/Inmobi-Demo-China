@@ -54,6 +54,8 @@ public  class GridAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         }
     }
 
+
+
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType)
     {
@@ -78,6 +80,8 @@ public  class GridAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
 
     }
 
+
+
     @Override
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
         //将数据与item视图进行绑定，如果是MyViewHolder就加载网络图片，如果是MyViewHolder2就显示页数
@@ -99,6 +103,7 @@ public  class GridAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
             ((MyViewHolder2) holder).title.setText(inmobiNative.getAdTitle());
             ((MyViewHolder2) holder).container_view.removeAllViews();
             ((MyViewHolder2) holder).container_view.addView(view);
+
         }
 
     }

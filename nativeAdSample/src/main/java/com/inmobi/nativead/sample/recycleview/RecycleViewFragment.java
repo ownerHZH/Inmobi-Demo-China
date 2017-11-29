@@ -12,6 +12,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 
 import com.inmobi.ads.InMobiAdRequestStatus;
 import com.inmobi.ads.InMobiNative;
@@ -43,9 +44,10 @@ public class RecycleViewFragment extends Fragment {
     private OnFragmentInteractionListener mListener;
     private RecyclerView recyclerview;
     private LinearLayoutManager mLayoutManager;
+    private LinearLayout bigPicContainer;
     private GridAdapter mAdapter;
     private List<Meizi> datas=new ArrayList<>();
-    private InMobiNative nativead,nativead1,nativead2,nativead3,nativead4;
+    private InMobiNative nativead,nativead1,nativead2,nativead3,nativead4,nativeBigAd;
 
     private final static String TAG="RecycleViewFragment";
 
@@ -86,6 +88,8 @@ public class RecycleViewFragment extends Fragment {
         // Inflate the layout for this fragment
         View view=inflater.inflate(R.layout.fragment_recycle_view, container, false);
 
+        bigPicContainer=(LinearLayout) view.findViewById(R.id.bigPic);
+
         recyclerview=(RecyclerView)view.findViewById(R.id.grid_recycler);
         mLayoutManager=new LinearLayoutManager(getContext(),GridLayoutManager.VERTICAL,false);//设置为一个1  列的纵向网格布局
         recyclerview.setLayoutManager(mLayoutManager);
@@ -108,6 +112,62 @@ public class RecycleViewFragment extends Fragment {
         nativead4=new InMobiNative(getContext(), PlacementId.YOUR_PLACEMENT_ID_RECYCLEVIEW,listener);
         nativead4.load();
 
+        nativeBigAd=new InMobiNative(getContext(), 1510744522875L,new InMobiNative.NativeAdListener(){
+            @Override
+            public void onAdLoadSucceeded(@NonNull InMobiNative inMobiNative) {
+                bigPicContainer.removeAllViews();
+                bigPicContainer.addView(inMobiNative.getPrimaryViewOfWidth(getContext(),bigPicContainer,bigPicContainer,bigPicContainer.getWidth()));
+            }
+
+            @Override
+            public void onAdLoadFailed(@NonNull InMobiNative inMobiNative, @NonNull InMobiAdRequestStatus inMobiAdRequestStatus) {
+
+            }
+
+            @Override
+            public void onAdFullScreenDismissed(InMobiNative inMobiNative) {
+
+            }
+
+            @Override
+            public void onAdFullScreenWillDisplay(InMobiNative inMobiNative) {
+
+            }
+
+            @Override
+            public void onAdFullScreenDisplayed(InMobiNative inMobiNative) {
+
+            }
+
+            @Override
+            public void onUserWillLeaveApplication(InMobiNative inMobiNative) {
+
+            }
+
+            @Override
+            public void onAdImpressed(@NonNull InMobiNative inMobiNative) {
+
+            }
+
+            @Override
+            public void onAdClicked(@NonNull InMobiNative inMobiNative) {
+
+            }
+
+            @Override
+            public void onMediaPlaybackComplete(@NonNull InMobiNative inMobiNative) {
+
+            }
+
+            @Override
+            public void onAdStatusChanged(@NonNull InMobiNative inMobiNative) {
+
+            }
+        } );
+        nativeBigAd.load();
+
+
+
         return view;
     }
 
@@ -115,6 +175,8 @@ public class RecycleViewFragment extends Fragment {
         @Override
         public void onAdLoadSucceeded(@NonNull InMobiNative inMobiNative) {
             Log.e(TAG,"onAdLoadSucceeded");
+
+
             Meizi data=new Meizi();
 
             Log.e(TAG,"onAdLoadSucceeded"+inMobiNative.getAdTitle()+inMobiNative.getAdLandingPageUrl());

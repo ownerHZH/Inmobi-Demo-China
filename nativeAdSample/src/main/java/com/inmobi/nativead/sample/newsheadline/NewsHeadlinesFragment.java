@@ -178,19 +178,23 @@ public class NewsHeadlinesFragment extends ListFragment implements NativeProvide
                                 //getString(Constants.AdJsonKeys.AD_IMAGE_URL);
                         item.setDescription(inMobiNative.getAdDescription());//content.getString(Constants.AdJsonKeys.AD_DESCRIPTION);
                         //inMobiNative.
-                        item.setInMobiNative(new WeakReference<>(inMobiNative));
+
 
                     if(position==2||position==4)
                     {
                         item.setBig(true);
+                        item.setInMobiNative(inMobiNative);
+                        //item.setView(inMobiNative.getPrimaryViewOfWidth(getContext(),getListView(),getListView(),getListView().getWidth()));
                     }else
                     {
                         item.setBig(false);
+                        item.setSmallInMobiNative(inMobiNative);
+                        //item.setView(inMobiNative.getPrimaryViewOfWidth(getContext(),getListView(),getListView(),64));
                     }
                         //item.view =inMobiNative.getPrimaryViewOfWidth(mAdapter.,viewGroup,0);
                         mItemList.add(position,item);
                         mNativeAdMap.put(item, new WeakReference<>(inMobiNative));
-                        mAdapter.notifyDataSetChanged();
+                        //mAdapter.notifyDataSetChanged();
                         Log.e(TAG, "Placed ad unit (" + inMobiNative.hashCode() +
                                 ") at position " + position);
 
@@ -260,7 +264,7 @@ public class NewsHeadlinesFragment extends ListFragment implements NativeProvide
             nativeAd.setExtras(map);
             mNativeAds[i] = nativeAd;
         }
-
+        mAdapter.notifyDataSetChanged();
 
     }
 

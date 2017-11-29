@@ -196,12 +196,12 @@
         "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-xhdpi/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png"
-    },
-    {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/res/merged/debug/drawable-xhdpi/cast_ic_notification_on.png",
         "source": "/Users/jerry.hu/.android/build-cache/4a0830acb7b28ced4c5c0d057b97b41b8819b249/output/res/drawable-xhdpi/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/res/merged/debug/drawable-xhdpi/ic_plusone_medium_off_client.png",
