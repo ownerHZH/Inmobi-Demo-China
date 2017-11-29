@@ -112,12 +112,12 @@
         "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/unlock_left.png",
-        "source": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/src/main/res/drawable/unlock_left.png"
-    },
-    {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
         "source": "/Users/jerry.hu/.android/build-cache/dfc95e32c6bc9138533ccfef96d3ffc7a07a5f3f/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/unlock_left.png",
+        "source": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/src/main/res/drawable/unlock_left.png"
     },
     {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
@@ -140,16 +140,16 @@
         "source": "/Users/jerry.hu/.android/build-cache/4a0830acb7b28ced4c5c0d057b97b41b8819b249/output/res/drawable/cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
         "source": "/Users/jerry.hu/.android/build-cache/dfc95e32c6bc9138533ccfef96d3ffc7a07a5f3f/output/res/drawable/mr_ic_settings_light.xml"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/410b8195cb0dbefde33b1ac27d0900dec4940c4e/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",

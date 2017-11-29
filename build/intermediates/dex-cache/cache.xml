@@ -3,51 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_72bf1d6669d34d11003dac9b58f9e6249f88fb91/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/libs/InMobi-7.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="17bbd556cf6b33d9ead7cce97742df4a5eb4e44a">
-        <dex dex="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/transforms/dex/debug/folders/1000/2/InMobi-7.0.1_d0d4850443ff54a2bc9591804de86578d6248df4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/libs/InMobi-7.0.0-China.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3a7e4a5b21a403ea81d059dcb4ce917611436651">
-        <dex dex="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/transforms/dex/debug/folders/1000/2/InMobi-7.0.0-China_5f2a32e51ac68389857f55fd2d435d4e5bf30899/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1913703f1c5dfa06896a9a7071b598ef948f7566">
-        <dex dex="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/nativeAdSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a644674943ddf2c5b16220cec26f70bb9a8d22dc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b77a2b4a1791522b18c509512702ce4123188fb9">
-        <dex dex="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89031a8dd278e89de74c807794e6be121b5fbeef/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/libs/InMobi-6.9.1.jar"
         jumboMode="true"
         optimize="true"
@@ -61,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8a3f91b4502eadb10e2201f38656a69e843fc828">
+        sha1="cce72c9d92ec8ccc14bed0a13ee96a65bdcbc72e">
         <dex dex="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4d8be73db22e8bf8d3c23f52799049a39cb82fc/classes.dex" />
     </item>
     <item
@@ -72,15 +27,6 @@
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff1d21a6d6c7a240653fd6a76c2a681aa3796bae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57425d98aa5d2f17af6ce865762fefcbe9380c2c/classes.dex" />
     </item>
 
 </items>

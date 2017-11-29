@@ -123,6 +123,7 @@ public class BannerAdsActivity extends AppCompatActivity {
         });
         setBannerLayoutParams();
         adContainer.addView(mBannerAd);
+        mBannerAd.setRefreshInterval(30);
         mBannerAd.load();
 
         adContainer.setOnClickListener(new View.OnClickListener() {

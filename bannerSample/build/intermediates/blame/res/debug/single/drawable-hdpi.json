@@ -180,12 +180,12 @@
         "source": "/Users/jerry.hu/.android/build-cache/dfc95e32c6bc9138533ccfef96d3ffc7a07a5f3f/output/res/drawable-hdpi/ic_pause_light.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-hdpi/powered_by_google_light.png",
-        "source": "/Users/jerry.hu/.android/build-cache/ffa6a6aa0512fdcf712968ef0f3af18a3348008f/output/res/drawable-hdpi/powered_by_google_light.png"
-    },
-    {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png",
         "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-hdpi/powered_by_google_light.png",
+        "source": "/Users/jerry.hu/.android/build-cache/ffa6a6aa0512fdcf712968ef0f3af18a3348008f/output/res/drawable-hdpi/powered_by_google_light.png"
     },
     {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-hdpi/cast_ic_notification_on.png",
@@ -252,12 +252,12 @@
         "source": "/Users/jerry.hu/.android/build-cache/5efced784c34edbd84df865983f7a13c7aca6878/output/res/drawable-hdpi/ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-hdpi/ic_cast_on_light.png",
-        "source": "/Users/jerry.hu/.android/build-cache/dfc95e32c6bc9138533ccfef96d3ffc7a07a5f3f/output/res/drawable-hdpi/ic_cast_on_light.png"
-    },
-    {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png",
         "source": "/Users/jerry.hu/.android/build-cache/a506f219dd6cb9647681c9fba695028be45845cb/output/res/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-hdpi/ic_cast_on_light.png",
+        "source": "/Users/jerry.hu/.android/build-cache/dfc95e32c6bc9138533ccfef96d3ffc7a07a5f3f/output/res/drawable-hdpi/ic_cast_on_light.png"
     },
     {
         "merged": "/Users/jerry.hu/Downloads/samples/InmobiDemo-China/bannerSample/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png",
