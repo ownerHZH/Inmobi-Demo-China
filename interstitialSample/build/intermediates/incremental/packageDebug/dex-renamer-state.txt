@@ -1,7 +1,0 @@
-#Fri Oct 20 11:56:16 CST 2017
-base.0=/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89031a8dd278e89de74c807794e6be121b5fbeef
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57425d98aa5d2f17af6ce865762fefcbe9380c2c/classes.dex
-base.1=/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57425d98aa5d2f17af6ce865762fefcbe9380c2c
-file.0=/Users/jerry.hu/Downloads/samples/InmobiDemo-China/interstitialSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89031a8dd278e89de74c807794e6be121b5fbeef/classes.dex
