@@ -172,13 +172,21 @@ public class NewsHeadlinesFragment extends ListFragment implements NativeProvide
 
                         Log.e(TAG, "onAdLoadSucceeded===" + content.toString());
                         NewsSnippet item = new NewsSnippet();
-                        item.title =inMobiNative.getAdTitle();// content.getString(Constants.AdJsonKeys.AD_TITLE);
+                        item.setTitle(inMobiNative.getAdTitle());// content.getString(Constants.AdJsonKeys.AD_TITLE);
                         //item.landingUrl = content.getString(Constants.AdJsonKeys.AD_CLICK_URL);
-                        item.imageUrl = inMobiNative.getAdIconUrl();//content.getJSONObject(Constants.AdJsonKeys.AD_IMAGE_OBJECT).
+                        item.setImageUrl(inMobiNative.getAdIconUrl());//content.getJSONObject(Constants.AdJsonKeys.AD_IMAGE_OBJECT).
                                 //getString(Constants.AdJsonKeys.AD_IMAGE_URL);
-                        item.description=inMobiNative.getAdDescription();//content.getString(Constants.AdJsonKeys.AD_DESCRIPTION);
+                        item.setDescription(inMobiNative.getAdDescription());//content.getString(Constants.AdJsonKeys.AD_DESCRIPTION);
                         //inMobiNative.
-                        item.inMobiNative=new WeakReference<>(inMobiNative);
+                        item.setInMobiNative(new WeakReference<>(inMobiNative));
+
+                    if(position==2||position==4)
+                    {
+                        item.setBig(true);
+                    }else
+                    {
+                        item.setBig(false);
+                    }
                         //item.view =inMobiNative.getPrimaryViewOfWidth(mAdapter.,viewGroup,0);
                         mItemList.add(position,item);
                         mNativeAdMap.put(item, new WeakReference<>(inMobiNative));

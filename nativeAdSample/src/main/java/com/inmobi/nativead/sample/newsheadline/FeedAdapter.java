@@ -68,7 +68,7 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
         viewHolder.tag.setVisibility(View.VISIBLE);
         viewHolder.tag.setText("Sponsored");
         Log.e("Adapter==",newsSnippet.imageUrl);
-        if(null==newsSnippet.inMobiNative||null==newsSnippet.inMobiNative.get())
+        if(null==newsSnippet.getInMobiNative()||null==newsSnippet.getInMobiNative().get())
         {
             viewHolder.con_view.setVisibility(View.GONE);
             viewHolder.con_view_small.setVisibility(View.GONE);
@@ -80,7 +80,7 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
         } else{
 
             //随机大小图
-            if(FeedAdapter.getNum(10)>5)
+            if(newsSnippet.isBig())
             {
                 viewHolder.tag.setVisibility(View.VISIBLE);
                 viewHolder.tag.setText("Sponsored");
@@ -148,7 +148,7 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
                     }
                 });
             }
-
+            notifyDataSetChanged();
         }
 
         return convertView;
