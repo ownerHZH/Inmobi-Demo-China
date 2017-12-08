@@ -194,7 +194,7 @@ public class FeedAdapter extends ArrayAdapter<NewsSnippet> {
 
 
             }
-
+             notifyDataSetChanged();
         }
 
         return convertView;

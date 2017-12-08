@@ -112,58 +112,7 @@ public class RecycleViewFragment extends Fragment {
         nativead4=new InMobiNative(getContext(), PlacementId.YOUR_PLACEMENT_ID_RECYCLEVIEW,listener);
         nativead4.load();
 
-        nativeBigAd=new InMobiNative(getContext(), 1510744522875L,new InMobiNative.NativeAdListener(){
-            @Override
-            public void onAdLoadSucceeded(@NonNull InMobiNative inMobiNative) {
-                bigPicContainer.removeAllViews();
-                bigPicContainer.addView(inMobiNative.getPrimaryViewOfWidth(getContext(),bigPicContainer,bigPicContainer,bigPicContainer.getWidth()));
-            }
-
-            @Override
-            public void onAdLoadFailed(@NonNull InMobiNative inMobiNative, @NonNull InMobiAdRequestStatus inMobiAdRequestStatus) {
-
-            }
-
-            @Override
-            public void onAdFullScreenDismissed(InMobiNative inMobiNative) {
-
-            }
-
-            @Override
-            public void onAdFullScreenWillDisplay(InMobiNative inMobiNative) {
-
-            }
-
-            @Override
-            public void onAdFullScreenDisplayed(InMobiNative inMobiNative) {
-
-            }
-
-            @Override
-            public void onUserWillLeaveApplication(InMobiNative inMobiNative) {
-
-            }
-
-            @Override
-            public void onAdImpressed(@NonNull InMobiNative inMobiNative) {
-
-            }
-
-            @Override
-            public void onAdClicked(@NonNull InMobiNative inMobiNative) {
-
-            }
-
-            @Override
-            public void onMediaPlaybackComplete(@NonNull InMobiNative inMobiNative) {
-
-            }
-
-            @Override
-            public void onAdStatusChanged(@NonNull InMobiNative inMobiNative) {
-
-            }
-        } );
+        nativeBigAd=new InMobiNative(getContext(), 1510744522875L,listener);
         nativeBigAd.load();
 
 
@@ -176,19 +125,27 @@ public class RecycleViewFragment extends Fragment {
         public void onAdLoadSucceeded(@NonNull InMobiNative inMobiNative) {
             Log.e(TAG,"onAdLoadSucceeded");
 
+            if(inMobiNative==nativeBigAd)
+            {
+                bigPicContainer.removeAllViews();
+                bigPicContainer.addView(inMobiNative.getPrimaryViewOfWidth(getContext(),bigPicContainer,bigPicContainer,bigPicContainer.getWidth()));
+            }else
+            {
+                Meizi data=new Meizi();
 
-            Meizi data=new Meizi();
+                Log.e(TAG,"onAdLoadSucceeded"+inMobiNative.getAdTitle()+inMobiNative.getAdLandingPageUrl());
+                Log.e(TAG,"onAdLoadSucceeded"+(inMobiNative==null?"Null":"NoNull"));
+                data.setInMobiNative(new WeakReference<InMobiNative>(inMobiNative));
+                datas.add(data);
 
-            Log.e(TAG,"onAdLoadSucceeded"+inMobiNative.getAdTitle()+inMobiNative.getAdLandingPageUrl());
-            Log.e(TAG,"onAdLoadSucceeded"+(inMobiNative==null?"Null":"NoNull"));
-            data.setInMobiNative(new WeakReference<InMobiNative>(inMobiNative));
-            datas.add(data);
-
-            Meizi data1=new Meizi();
-            data1.setUrl("http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=3d2175db3cd3d539d530078052ee8325/b7003af33a87e950c1e1a6491a385343fbf2b425.jpg");
-            datas.add(data1);
-
+                Meizi data1=new Meizi();
+                data1.setUrl("http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=3d2175db3cd3d539d530078052ee8325/b7003af33a87e950c1e1a6491a385343fbf2b425.jpg");
+                datas.add(data1);
+            }
             mAdapter.notifyDataSetChanged();
+
+
+
             //http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=3d2175db3cd3d539d530078052ee8325/b7003af33a87e950c1e1a6491a385343fbf2b425.jpg
         }
 

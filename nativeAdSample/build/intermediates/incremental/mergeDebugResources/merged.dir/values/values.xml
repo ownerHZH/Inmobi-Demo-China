@@ -593,6 +593,9 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="adContentPadding">5dp</dimen>
+    <dimen name="appFabSize">60dp</dimen>
+    <dimen name="appTextSize">18sp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -647,6 +650,7 @@
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
+    <dimen name="int_level_height">50dp</dimen>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
@@ -786,11 +790,11 @@ You may be warned about potential privacy risk, that's just a regular informativ
     <string name="store_picture_title">Save image</string>
     <string name="title_activity_pre_roll">PreRollActivity</string>
     <string name="title_activity_splash_fullscreen">NativeVideoDemo</string>
-    <string name="title_section1">Headlines</string>
-    <string name="title_section2">Photos</string>
-    <string name="title_section3">News</string>
-    <string name="title_section4">Gallery</string>
-    <string name="title_section5">RecycleView</string>
+    <string name="title_section1">News</string>
+    <string name="title_section2">Icon形式</string>
+    <string name="title_section3">信息流</string>
+    <string name="title_section4">RecycleView</string>
+    <string name="title_section5">大小图</string>
     <string name="unlock_instructions">Slide to unlock</string>
     <string name="unlock_locked">Locked</string>
     <string name="unlock_thumb">Move this thumb</string>

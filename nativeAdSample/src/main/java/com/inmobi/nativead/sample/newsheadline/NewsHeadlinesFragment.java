@@ -180,7 +180,7 @@ public class NewsHeadlinesFragment extends ListFragment implements NativeProvide
                         //inMobiNative.
 
 
-                    if(position==2||position==4)
+                    if(position==2||position==18)
                     {
                         item.setBig(true);
                         item.setInMobiNative(inMobiNative);

@@ -5,6 +5,7 @@ import com.inmobi.nativead.sample.newsheadline.NewsHeadlinesFragment;
 import com.inmobi.nativead.sample.photofeed.PhotosFeedFragment;
 import com.inmobi.nativead.sample.photopages.PhotoPagesFragment;
 import com.inmobi.nativead.sample.recycleview.RecycleViewFragment;
+import com.inmobi.nativead.sample.twocreatives.SingleStrandFragment;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -30,20 +31,23 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         switch (position) {
             case 0:
-                return RecycleViewFragment.newInstance("","");
-
+                //两种尺寸大小的广告
+                return new SingleStrandFragment();
             case 1:
-                return new PhotosFeedFragment();
-            case 2:
+                //Icon形式
                 return new NewsFragment();
-            case 3:
-                return new PhotoPagesFragment();
-            case 4:
+            case 2:
                 NewsHeadlinesFragment headlinesFragment = new NewsHeadlinesFragment();
                 Bundle args = new Bundle();
                 args.putBoolean(NewsHeadlinesFragment.ARGS_PLACE_NATIVE_ADS, true);
                 headlinesFragment.setArguments(args);
                 return headlinesFragment;
+
+            case 3:
+                //return new PhotoPagesFragment();
+                return RecycleViewFragment.newInstance("","");
+            case 4:
+                return new PhotosFeedFragment();
             default:
                 return new PlaceholderFragment();
         }
